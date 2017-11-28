@@ -1,8 +1,8 @@
-package casa02;
+package lista00;
 
 import java.util.Scanner;
 
-public class exercicios {
+public class Questao01 {
 	public static void main(String[] args) {
 		Float consumo;
 		Float s;
