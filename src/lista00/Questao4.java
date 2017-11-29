@@ -10,7 +10,7 @@ public class Questao4 {
 		
 		//leitura 
 		Scanner scan= new Scanner(System.in);
-		System.out.print("Quantos carros foram vendidos");
+		System.out.print("Quantos carros foram vendidos: ");
 		carros = scan.nextInt();
 		total= 800+300*carros;
 		scan.close();
